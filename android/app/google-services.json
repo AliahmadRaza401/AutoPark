@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146476778060",
+    "project_id": "parkingapp-e6a26",
+    "storage_bucket": "parkingapp-e6a26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146476778060:android:d92c8ecdb719f8087feae9",
+        "android_client_info": {
+          "package_name": "com.example.parkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146476778060-24opjqsafusp5rej7hflk591b2r94q7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQsTqOTZdTRjMOg4ZYOZ0T8uhOn9Zh50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146476778060-24opjqsafusp5rej7hflk591b2r94q7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
